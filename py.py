@@ -1,3 +1,5 @@
 import os 
+import numpy as np
 
-os.system('echo 'hello world' >> hw.txt)
+print(np.__version__)
+
